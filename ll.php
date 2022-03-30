@@ -2,7 +2,7 @@
 
 ob_start();
 
-$API_KEY = "Token";
+$API_KEY = "2014491240:AAEorbwtcIxYxa7r47smGOSi4Ve2ofod7wE";
 
 define('API_KEY',$API_KEY);
 function bot($method,$datas=[]){
